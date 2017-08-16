@@ -1,0 +1,14 @@
+2017-07-31 22:10:52.201  INFO 6595 --- [main] com.zhihao.miao.Application              : Starting Application on miaozhihaodeMBP with PID 6595 (/Users/naeshihiroshi/work/workspace/selfStudy/springboot-demos/springboot/springboot-log/target/classes started by naeshihiroshi in /Users/naeshihiroshi/work/workspace/selfStudy/springboot-demos/springboot)
+2017-07-31 22:10:52.206  INFO 6595 --- [main] com.zhihao.miao.Application              : No active profile set, falling back to default profiles: default
+2017-07-31 22:10:52.266  INFO 6595 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@1fc2b765: startup date [Mon Jul 31 22:10:52 CST 2017]; root of context hierarchy
+2017-07-31 22:10:53.107  INFO 6595 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-07-31 22:10:53.142  INFO 6595 --- [main] com.zhihao.miao.Application              : Started Application in 1.429 seconds (JVM running for 2.083)
+2017-07-31 22:10:53.143  INFO 6595 --- [main] com.zhihao.miao.service.UserService      : user service info log
+2017-07-31 22:10:53.145  WARN 6595 --- [main] com.zhihao.miao.service.UserService      : user service warn log
+2017-07-31 22:10:53.145 ERROR 6595 --- [main] com.zhihao.miao.service.UserService      : user service error log
+2017-07-31 22:10:53.145 DEBUG 6595 --- [main] com.zhihao.miao.dao.UserDao              : user dao debug log
+2017-07-31 22:10:53.145  INFO 6595 --- [main] com.zhihao.miao.dao.UserDao              : user dao info log
+2017-07-31 22:10:53.146  WARN 6595 --- [main] com.zhihao.miao.dao.UserDao              : user dao warn log
+2017-07-31 22:10:53.146 ERROR 6595 --- [main] com.zhihao.miao.dao.UserDao              : user dao error log
+2017-07-31 22:10:53.148  INFO 6595 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@1fc2b765: startup date [Mon Jul 31 22:10:52 CST 2017]; root of context hierarchy
+2017-07-31 22:10:53.149  INFO 6595 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown

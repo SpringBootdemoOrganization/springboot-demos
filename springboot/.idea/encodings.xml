@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-getway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-bean" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-actuator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-aop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-autoconfig" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-commandLineRunner" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-enable" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-enableAutoConfiguration" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-event" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-exception" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-expand" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-expand2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-expand3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-expand4" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-flowAnalysis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-import" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-jdbc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-log" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-profile" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-profile2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-quartz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-quartz2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-quickstart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-redis-stater" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-retry" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-stater-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-tomcat" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-web01" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-web02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-web03" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-web05" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-web06" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-web07" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springdemo-study01" charset="UTF-8" />
+  </component>
+</project>

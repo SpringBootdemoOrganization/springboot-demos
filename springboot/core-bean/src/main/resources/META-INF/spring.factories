@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=core.bean.MyConfig,core.bean.Myconfig2,core.bean.People
+org.springframework.context.ApplicationContextInitializer=core.bean.MyApplicationContextInitializer

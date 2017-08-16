@@ -1,0 +1,5 @@
+com/zhihao/miao/RedisProperties.class
+com/zhihao/miao/People.class
+com/zhihao/miao/JedisPoolConfigProperties.class
+com/zhihao/miao/RedisAutoConfiguration.class
+com/zhihao/miao/EnableRedis.class

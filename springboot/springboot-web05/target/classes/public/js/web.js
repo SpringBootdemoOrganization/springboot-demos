@@ -1,0 +1,1 @@
+alert('spring boot static resources');

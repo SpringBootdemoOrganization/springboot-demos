@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="api-getway" />
+        <module name="core-bean" />
+        <module name="springboot-actuator" />
+        <module name="springboot-aop" />
+        <module name="springboot-autoconfig" />
+        <module name="springboot-commandLineRunner" />
+        <module name="springboot-enable" />
+        <module name="springboot-enableAutoConfiguration" />
+        <module name="springboot-event" />
+        <module name="springboot-exception" />
+        <module name="springboot-expand" />
+        <module name="springboot-expand2" />
+        <module name="springboot-expand3" />
+        <module name="springboot-expand4" />
+        <module name="springboot-flowAnalysis" />
+        <module name="springboot-import" />
+        <module name="springboot-jdbc" />
+        <module name="springboot-log" />
+        <module name="springboot-profile" />
+        <module name="springboot-profile2" />
+        <module name="springboot-quartz" />
+        <module name="springboot-quartz2" />
+        <module name="springboot-quickstart" />
+        <module name="springboot-redis-stater" />
+        <module name="springboot-retry" />
+        <module name="springboot-stater-test" />
+        <module name="springboot-test" />
+        <module name="springboot-tomcat" />
+        <module name="springboot-web01" />
+        <module name="springboot-web02" />
+        <module name="springboot-web03" />
+        <module name="springboot-web04" />
+        <module name="springboot-web05" />
+        <module name="springboot-web06" />
+        <module name="springboot-web07" />
+        <module name="springdemo-study01" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api-getway" target="1.8" />
+      <module name="core-bean" target="1.8" />
+      <module name="springboot" target="1.8" />
+      <module name="springboot-actuator" target="1.8" />
+      <module name="springboot-aop" target="1.8" />
+      <module name="springboot-autoconfig" target="1.8" />
+      <module name="springboot-commandLineRunner" target="1.8" />
+      <module name="springboot-enable" target="1.8" />
+      <module name="springboot-enableAutoConfiguration" target="1.8" />
+      <module name="springboot-event" target="1.8" />
+      <module name="springboot-exception" target="1.8" />
+      <module name="springboot-expand" target="1.8" />
+      <module name="springboot-expand2" target="1.8" />
+      <module name="springboot-expand3" target="1.8" />
+      <module name="springboot-expand4" target="1.8" />
+      <module name="springboot-flowAnalysis" target="1.8" />
+      <module name="springboot-HikariCP" target="1.8" />
+      <module name="springboot-import" target="1.8" />
+      <module name="springboot-jdbc" target="1.8" />
+      <module name="springboot-log" target="1.8" />
+      <module name="springboot-profile" target="1.8" />
+      <module name="springboot-profile2" target="1.8" />
+      <module name="springboot-quartz" target="1.8" />
+      <module name="springboot-quartz2" target="1.8" />
+      <module name="springboot-quickstart" target="1.8" />
+      <module name="springboot-redis-stater" target="1.8" />
+      <module name="springboot-retry" target="1.8" />
+      <module name="springboot-stater-test" target="1.8" />
+      <module name="springboot-test" target="1.8" />
+      <module name="springboot-tomcat" target="1.8" />
+      <module name="springboot-web01" target="1.8" />
+      <module name="springboot-web02" target="1.8" />
+      <module name="springboot-web03" target="1.8" />
+      <module name="springboot-web04" target="1.8" />
+      <module name="springboot-web05" target="1.8" />
+      <module name="springboot-web06" target="1.8" />
+      <module name="springboot-web07" target="1.8" />
+      <module name="springdemo-study01" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

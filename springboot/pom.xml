@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.zhihao.miao</groupId>
+    <artifactId>springboot</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <modules>
+        <module>springboot-quickstart</module>
+        <module>springboot-profile</module>
+        <module>springboot-autoconfig</module>
+        <module>springboot-enable</module>
+        <module>springboot-import</module>
+        <module>springboot-profile2</module>
+        <module>springboot-retry</module>
+        <module>springboot-quartz</module>
+        <module>core-bean</module>
+        <module>springboot-enableAutoConfiguration</module>
+        <module>springboot-event</module>
+        <module>springboot-expand</module>
+        <module>springboot-commandLineRunner</module>
+        <module>springboot-expand2</module>
+        <module>springboot-expand3</module>
+        <module>springboot-expand4</module>
+        <module>springboot-web01</module>
+        <module>springboot-web02</module>
+        <module>springboot-web03</module>
+        <module>springboot-web05</module>
+        <module>springboot-web06</module>
+        <module>springboot-web07</module>
+        <module>springboot-jdbc</module>
+        <module>springboot-exception</module>
+        <module>springboot-tomcat</module>
+        <module>springboot-aop</module>
+        <module>springboot-redis-stater</module>
+        <module>springboot-stater-test</module>
+        <module>springdemo-study01</module>
+        <module>springboot-log</module>
+        <module>springboot-actuator</module>
+        <module>springboot-test</module>
+        <module>api-getway</module>
+        <module>springboot-flowAnalysis</module>
+        <module>springboot-quartz2</module>
+    </modules>
+    <packaging>pom</packaging>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
+
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>1.5.4.RELEASE</version>
+    </parent>
+
+
+
+
+</project>
